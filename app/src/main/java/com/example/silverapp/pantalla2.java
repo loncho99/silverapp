@@ -28,7 +28,7 @@ public class pantalla2 extends AppCompatActivity {
         bt2.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent = new Intent(pantalla2.this,pantalla4.class);
+                Intent intent = new Intent(pantalla2.this,MapsActivity1.class);
                 startActivity(intent);
 
             }

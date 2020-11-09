@@ -11,7 +11,7 @@ import android.view.WindowManager;
 
 public class Splash extends AppCompatActivity {
 
-    private final int DURACION =20000;
+    private final int DURACION =1000;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
